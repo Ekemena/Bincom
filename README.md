@@ -1,0 +1,2 @@
+# Bincom
+ElectionResult project 
